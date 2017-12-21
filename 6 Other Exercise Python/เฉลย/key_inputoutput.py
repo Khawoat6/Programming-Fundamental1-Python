@@ -1,0 +1,5 @@
+name = input('Enter your name: ')
+birthyear = int(input('Enter your birth year: '))
+thisyear = int(input('Enter a year: '))
+print('Hi',name,',')
+print('In',thisyear,'you will be',thisyear-birthyear,'years old.')

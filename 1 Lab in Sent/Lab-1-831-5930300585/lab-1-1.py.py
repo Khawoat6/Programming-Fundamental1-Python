@@ -1,0 +1,6 @@
+enter=input("Enter your name: ")
+birth=input("Enter your birth year: ")
+year=input("Enter a year: ")
+oat=(",")
+print("Hi",enter+oat)
+print("In",year,"you will be",int(year)-int(birth),"years old.")
